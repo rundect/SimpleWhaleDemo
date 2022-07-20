@@ -1,0 +1,11 @@
+
+# https://www.youtube.com/watch?v=YFtDn0l-5D0&list=PLA0M1Bcd0w8wRiyGX_9y-fUiBPi1vqaTb&index=1
+
+# Конечный адрес сети узла - IP address: 255.255.255.255
+# Маршрутизатор
+# Пакет данных - каждый содержит IP адрес получателя, отправителя, данные
+# TCP/IP
+# IP address хранятся на DNS server
+# Web server Apache
+#
+#
